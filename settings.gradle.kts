@@ -7,6 +7,6 @@ pluginManagement {
 }
 
 include(":app", ":shared")
-rootProject.name = "KaMPKit"
+rootProject.name = "TravelApp-KMM"
 
 enableFeaturePreview("VERSION_CATALOGS")
